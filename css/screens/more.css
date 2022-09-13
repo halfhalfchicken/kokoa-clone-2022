@@ -38,3 +38,17 @@
     font-size: 32px;
     color: white;
 }
+
+.user-component__subtitle {
+    margin-right: 5px;
+}
+
+.user-component__contents i {
+    margin-top: 8px;
+    color: red;
+}
+
+.user-component__contents {
+    display: flex;
+    align-items: center;
+}
